@@ -12,7 +12,7 @@ public class Recap {
 		 * once user gives us exact 5 then enjoy your water
 		 */
 		
-		Scanner input;
+		Scanner input; 
 		int money;
 		int waterPrice=5;
 		
