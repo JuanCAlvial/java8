@@ -1,4 +1,4 @@
-package com.syntax.claa09;
+package com.syntax.class09;
 
 public class ArrayDemo {
 
